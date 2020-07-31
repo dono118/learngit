@@ -1,3 +1,3 @@
 func NewFunc() {
-    fmt.Println("add new func")
+    fmt.Println("hello go")
 }
